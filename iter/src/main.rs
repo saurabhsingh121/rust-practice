@@ -1,5 +1,5 @@
 
-fn print_elements(elements: &Vec<String>){
+fn print_elements(elements: &[String]){
     // for element in elements {
     //     println!("{}", element);
     // }
